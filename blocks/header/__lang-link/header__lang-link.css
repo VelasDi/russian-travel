@@ -1,0 +1,20 @@
+.header__lang-link{
+    display: flex;
+    flex-direction: column-reverse;
+    font-size: 24px;
+    margin-left: 18px;
+    line-height:28px;
+    text-align: right;
+    text-decoration-line: underline;
+    color: white;
+    
+}
+.header__lang-link:last-child{
+    text-decoration-line: none;
+}
+
+@media screen and (min-width: 320px)and (max-width: 425px) {
+    .header__lang-link{
+       font-size: 18px;
+    }
+}

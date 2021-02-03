@@ -1,0 +1,11 @@
+.place__table{
+    max-width: 984px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px,1fr));
+    column-gap: 48px;
+    row-gap: 40px;
+    margin-bottom: 80px;
+}
+.place__table:last-child{
+    margin-bottom: 0;
+}
