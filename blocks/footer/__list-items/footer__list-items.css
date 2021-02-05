@@ -1,11 +1,10 @@
-.footer__list_items{
+.footer__list-items{
     display: inline;
-    
     list-style: none;
     padding-left: 0;
 } 
 @media screen and (min-width: 320px)and (max-width: 425px) {
-    .footer__list_items{
+    .footer__list-items{
         display: flex;
         flex-direction: column;
         justify-content: space-between;
