@@ -4,6 +4,9 @@
     padding-top: 245px;
     max-width: 560px;
     line-height: 1.2;
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 900;
     font-size: 72px;
     text-align: center;
     z-index: 5;

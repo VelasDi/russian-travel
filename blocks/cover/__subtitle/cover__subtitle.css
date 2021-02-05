@@ -3,6 +3,9 @@
     padding-top: 32px;
     margin: auto;
     display: flex;
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 400;
     text-align: center;
     line-height: 1.2;
     font-size: 18px;

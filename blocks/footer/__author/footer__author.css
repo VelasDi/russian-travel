@@ -1,4 +1,10 @@
 .footer__author{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
     margin-top: 0;
     margin-bottom: 0;
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 400;
 }

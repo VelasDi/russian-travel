@@ -1,6 +1,9 @@
 .header__lang-link{
     display: flex;
     flex-direction: column-reverse;
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 400;
     font-size: 24px;
     margin-left: 18px;
     line-height:28px;
@@ -9,6 +12,9 @@
     color: white;
     
 }
+.header__lang-link:hover{
+    opacity: 0.8;
+  }
 .header__lang-link:last-child{
     text-decoration-line: none;
 }

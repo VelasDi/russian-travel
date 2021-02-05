@@ -1,6 +1,6 @@
-
 @import url(../vendor/normalize.css);
-@import url(../blocks/body/body.css);
+@import url(../vendor/fonts/fonts.css);
+@import url(../blocks/page/__container/page__container.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__links/header__links.css);
@@ -42,8 +42,4 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__list/footer__list.css);
-@import url('https://rsms.me/inter/inter.css');
-html { font-family: 'Inter', sans-serif; }
-@supports (font-variation-settings: normal) {
-  html { font-family: 'Inter var', sans-serif; }
-}
+@import url(../blocks/footer/__list/_items/footer__list_items.css);
