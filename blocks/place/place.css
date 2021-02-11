@@ -3,18 +3,13 @@
     margin: 0;
     padding-left: 148px;
     padding-right: 148px;
+    padding-top: 92px;
 }
-
-@media screen and (min-width: 1280px)and (max-width: 1440px){
-    .place{
-        padding-left: 148px;
-        padding-right: 148px;
-    }
-}
-@media screen and (min-width: 768px)and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
     .place{ 
         padding-left: 24px;
         padding-right: 24px;
+        padding-top: 88px;
     }
 }
 @media screen and (max-width: 1024px){
@@ -27,5 +22,6 @@
     .place{
         padding-left: 0px;
         padding-right: 0px;
+        padding-top: 64px;
     }
 }

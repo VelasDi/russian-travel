@@ -1,0 +1,27 @@
+.cover__link{
+    color: white;
+    max-width: 1184px;
+    height: 740px;
+    text-decoration: none;
+    background-image: url(../../../images/cover-trains.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+@media screen and (min-width: 768px)and (max-width: 1024px) {
+    .cover__link{ 
+        height: 480px;
+    }
+}
+@media screen and (max-width: 1024px){
+    .cover__link{
+        height: 640px;
+    }
+}
+@media screen and (min-width: 320px)and (max-width: 425px) {
+    .cover__link{
+        height: 200px;
+    }
+}
+   

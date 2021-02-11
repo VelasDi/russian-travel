@@ -1,7 +1,5 @@
-.intro__item{
+.intro__item_numbers{
     font-family: 'Inter', Helvetica, Arial, sans-serif;
     font-style:  normal;
-    font-weight: 900;
-    font-size: 12px;
-    line-height: 1.2;
+    font-weight: 400;
 }
