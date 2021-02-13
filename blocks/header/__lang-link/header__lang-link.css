@@ -9,6 +9,7 @@
     line-height:28px;
     text-align: right;
     color: white;
+    text-decoration-line: none;
     
 }
 .header__lang-link:hover{

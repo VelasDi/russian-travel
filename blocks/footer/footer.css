@@ -6,11 +6,10 @@
     padding-top: 92px;
     padding-left: 48px;
     padding-right: 48px;
-    padding-bottom: 24px;
 }
-@media screen and (max-width: 768px){
+@media screen and (min-width: 768px)and (max-width: 1023px) {
     .footer{ 
-        padding-top: 88;
+        padding-top: 88px;
         padding-left: 24px;
         padding-right: 24px;
     }
